@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Welcome my develop hub
+- Most of training and practise in here
 
 <!--
 **Nek0Lex/Nek0Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
