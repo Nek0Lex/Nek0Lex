@@ -1,6 +1,7 @@
 ### Hi there 👋
 - Welcome my develop hub
 - Most of training and practise in here
+- Leetcode practise -> https://github.com/Nek0Lex/Leetcode-practise-repo
 
 <!--
 **Nek0Lex/Nek0Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
