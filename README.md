@@ -4,6 +4,9 @@
 - Leetcode practise -> https://github.com/Nek0Lex/Leetcode-practise-repo
 - My site -> https://www.homing.dev
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Nek0/30-nites-of-code)  
+  ![@Nek0 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nek0)
 <!--
 **Nek0Lex/Nek0Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
